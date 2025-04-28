@@ -3,7 +3,7 @@ export default function Hero() {
         <>
             <h5>Complete this training program if you want to ...</h5>
             <ol className="benefits-list">
-                <li>Folow a simple program with guaranteed results</li>
+                <li>Follow a simple program with guaranteed results</li>
                 <li>Get fit, healthy, strong and shredded</li>
                 <li>Learn more about gym, training and technique</li>
                 <li>Become a lifetime gym bro 💛</li>
